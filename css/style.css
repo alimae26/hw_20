@@ -1,0 +1,48 @@
+.header {
+  color: black;
+  font-family: "soleil", sans-serif;
+  font-size: 20px;
+  height: 90px;
+  align-content: center;
+  padding: 20px;
+}
+.links {
+  margin: 10px;
+  color: black;
+}
+.honest {
+  color: orangered;
+  font-size: 35px;
+  font-family: "calder-dark-grit-shadow", sans-serif;
+}
+.information {
+  font-family: "soleil", sans-serif;
+  font-size: 20px;
+}
+.informationheader {
+  font-family: "calder-dark-outline", sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 160px;
+  margin-top: 30px;
+  background-color: black;
+}
+.footerhead {
+  font-family: "calder-dark-grit-shadow", sans-serif;
+  color: orangered;
+  font-size: 36px;
+}
+.footerlinks {
+  color: white;
+  font-family: "soleil", sans-serif;
+  font-size: 20px;
+}
+.footercontainer {
+  background-color: black;
+  height: 180px;
+  padding: 20px 0px;
+}
+.scallop {
+  margin-bottom: 20px;
+  width: 100%;
+}
